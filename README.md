@@ -20,7 +20,7 @@ I am open to networking and connecting with fellow professionals who share my en
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" title="aftereffects" alt="aftereffects" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="photoshop" alt="photoshop" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" title="premierepro" alt="premierepro" width="40" height="40" />
-          
+#       
           
           
           
