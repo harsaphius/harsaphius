@@ -6,6 +6,7 @@
 I am open to networking and connecting with fellow professionals who share my enthusiasm for the IT area. Whether it's collaborating on exciting projects, exploring new ventures, or exchanging innovative ideas, I welcome the chance to connect and explore potential synergies.</blockquote>
 
 ### 🧰 Languages and Tools
+<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="40" height="40" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" style="padding-right:10px;" />
@@ -20,7 +21,8 @@ I am open to networking and connecting with fellow professionals who share my en
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" title="aftereffects" alt="aftereffects" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="photoshop" alt="photoshop" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" title="premierepro" alt="premierepro" width="40" height="40" />
-#       
+</div>
+          #       
           
           
           
