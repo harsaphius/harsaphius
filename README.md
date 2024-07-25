@@ -31,7 +31,7 @@ I am open to networking and connecting with fellow professionals who share my en
 
 ### 🥇 My stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=harsaphius&theme=whatsapp-dark2&border_radius=30&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br /><br />
-[![Top Langs](https://github-readme-stats-three-alpha-62.vercel.app/api/top-langs/?username=harsaphius&layout=donut-vertical)](https://mydomain-harsaphius.vercel.app/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsaphius&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
           
           
