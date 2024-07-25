@@ -5,6 +5,7 @@
 <blockquote>This quote has been my guiding principle throughout my career. I firmly believe that resilience and determination are the keys to overcoming obstacles and achieving success. I'm not afraid to take calculated risks and push the boundaries of what's possible.
 I am open to networking and connecting with fellow professionals who share my enthusiasm for the IT area. Whether it's collaborating on exciting projects, exploring new ventures, or exchanging innovative ideas, I welcome the chance to connect and explore potential synergies.</blockquote>
 
+--- 
 ### 🧰 Languages and Tools
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40" style="padding-right:20px;" />
