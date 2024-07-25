@@ -25,7 +25,11 @@ I am open to networking and connecting with fellow professionals who share my en
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="photoshop" alt="photoshop" width="40" height="40" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" title="premierepro" alt="premierepro" width="40" height="40" />&nbsp;&nbsp;
 </div>
-      
+
+## 🥇 My stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=harsaphius&theme=whatsapp-dark2&border_radius=30&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
           
           
           
