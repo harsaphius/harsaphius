@@ -26,9 +26,11 @@ I am open to networking and connecting with fellow professionals who share my en
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="photoshop" alt="photoshop" width="40" height="40" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" title="premierepro" alt="premierepro" width="40" height="40" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="postman" alt="postman" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" title="postman" alt="postman" width="40" height="40" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="postman" alt="postman" width="40" height="40" />&nbsp;&nbsp;
-       
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" title="swagger" alt="swagger" width="40" height="40" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40" />&nbsp;&nbsp;
+      <img   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-plain.svg"  title="notion" alt="notion" width="40" height="40" />&nbsp;&nbsp;
+     
 </div>
 
 --- 
